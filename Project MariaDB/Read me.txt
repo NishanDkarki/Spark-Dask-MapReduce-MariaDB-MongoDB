@@ -1,0 +1,57 @@
+Nishan Karki
+Assignment1_CSI5357
+
+Files:
+as1_cfg.py : Te file contains a dictionary with maria db connection details.
+assignment1_NishanKarki.py : This is the file to be executed
+karki.as1.csv: The output is printed to the file
+
+The program assignment1_NishanKarki.py takes any number of arguments for year filed and prints each years output.
+Arguments are to be entered through terminal. Output is also written to the karki.as1.csv file.
+
+Ex:> python assignment1_NishanKarki.py 2015
+will print out all superstars for 2015.
+
+The superstars for 2015 were:
+PlayerID                Position                        Runs Created
+altuvjo01               2B                              103.3615
+bogaexa01               SS                              91.5484
+bumgama01               P                               9.9000
+cespeyo01               LF                              112.6420
+donaljo02               3B                              130.5726
+encared01               DH                              109.3077
+goldspa01               1B                              140.5562
+harpebr03               RF                              155.5627
+poseybu01               C                               99.2488
+troutmi01               CF                              136.1965
+--------------------------------------------------------------------------------
+
+Ex:> python assignment1_NishanKarki.py 2015 2016
+C:\Users\Wild\Desktop\NishanKarki_Assignment1_CSI5357>python assignment1_NishanKarki.py 2015 2016
+The superstars for 2015 were:
+PlayerID                Position                        Runs Created
+altuvjo01               2B                              103.3615
+bogaexa01               SS                              91.5484
+bumgama01               P                               9.9000
+cespeyo01               LF                              112.6420
+donaljo02               3B                              130.5726
+encared01               DH                              109.3077
+goldspa01               1B                              140.5562
+harpebr03               RF                              155.5627
+poseybu01               C                               99.2488
+troutmi01               CF                              136.1965
+--------------------------------------------------------------------------------
+The superstars for 2016 were:
+PlayerID                Position                        Runs Created
+altuvjo01               2B                              134.7619
+seageco01               SS                              117.2795
+bumgama01               P                               8.3093
+yelicch01               LF                              104.9954
+bryankr01               3B                              128.5350
+ortizda01               DH                              133.5192
+freemfr01               1B                              133.9033
+bettsmo01               RF                              130.3219
+lucrojo01               C                               86.9210
+troutmi01               CF                              133.0396
+--------------------------------------------------------------------------------
+

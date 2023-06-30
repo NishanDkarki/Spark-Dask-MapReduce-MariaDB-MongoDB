@@ -1,0 +1,33 @@
+Nishan Karki
+Assignment 2_CSI5357
+
+Files
+assignment2_NishanKarki.py : This is the file to be executed
+karki.as2.csv: The output is printed to the file
+
+The program assignment2_NishanKarki.py takes 3 arguments (2 .csv files and a year number) and prints each years output.
+Arguments are to be entered through terminal. 
+
+Output is printed to the terminal
+Ex:> python assignment2_NishanKarki.py Appearances.csv Batting.csv --year 2015
+
+Output can also written to the karki.as2.csv file with command below.
+Ex:> python assignment2_NishanKarki.py Appearances.csv Batting.csv --year 2015 >karki.as2.csv
+
+The commands above will print out all superstars for 2015.
+-------------------------------------------------------------------
+The superstars for 2015 were:
+-------------------------------------------------------------------
+PlayerID        Position        Runs Created
+altuvjo01       2B              103.36151603498543
+bogaexa01       SS              91.54838709677419
+bumgama01       P               9.9
+cespeyo01       LF              112.64201183431953
+donaljo02       3B              130.57263751763045
+encared01       DH              109.3076923076923
+goldspa01       1B              140.55619596541786
+harpebr03       RF              155.56269113149847
+poseybu01       C               99.24879614767255
+troutmi01       CF              136.1964809384164
+------------------------------------------------------------------
+

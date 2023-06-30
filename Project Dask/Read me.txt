@@ -1,0 +1,26 @@
+Nishan Karki
+Assignment4_CSI5357
+
+Files:
+as4_cfg.py : The file contains a dictionary with local files path. Change the file location to process on the local PC.
+as4_nk.py : This is the file to be executed.
+
+The program as4_nk.py takes a number as input parameter as year value and prints output for the year.
+Arguments are to be entered through terminal.
+
+Ex:> python as4_nk.py 2015 will print out all superstars for 2015.
+
+---------------------------------------------------------------------------------
+The superstars for 2015 were:
+---------------------------------------------------------------------------------
+    playerID position  RunsCreated
+0  altuvjo01     G_2b   103.361516
+1  bogaexa01     G_ss    91.548387
+2  bumgama01      G_p     9.900000
+3  cespeyo01     G_lf   112.642012
+4  donaljo02     G_3b   130.572638
+5  encared01     G_dh   109.307692
+6  goldspa01     G_1b   140.556196
+7  harpebr03     G_rf   155.562691
+8  poseybu01      G_c    99.248796
+9  troutmi01     G_cf   136.196481
